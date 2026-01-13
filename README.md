@@ -1,3 +1,6 @@
+# Source code is available:
+https://github.com/nikoHu/AMCloneDetector
+
 # AMCD
 AMCD is a code clone detection tool used for recognizing code clones in software repositories.
 
